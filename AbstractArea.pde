@@ -1,3 +1,4 @@
+///tukutta
 abstract class AbstractArea {
   int posX;
   int posY;
